@@ -14,3 +14,5 @@
   - *20180102 shared by [ljiepan](https://github.com/ljiepan)*
 4. [Django简介](topic_share/180104_django_intro_@SeanLiuID/README.md)
   - *20180104 shared by [SeanLiuID](https://github.com/SeanLiuID)*
+5. [C语言简介](https://www.processon.com/view/link/5a4e06aae4b0ee0fb8cec421)
+  - *20180108 shared by [shijianye1989](https://github.com/shijianye1989)*
