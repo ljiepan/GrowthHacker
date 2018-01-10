@@ -25,5 +25,5 @@
   - *20180104 shared by [SeanLiuID](https://github.com/SeanLiuID)*
 5. [C语言简介](https://www.processon.com/view/link/5a4e06aae4b0ee0fb8cec421)
   - *20180108 shared by [shijianye1989](https://github.com/shijianye1989)*
-6. [C++语言简介](https://www.processon.com/view/link/5a4e06aae4b0ee0fb8cec421)
-  - *201801.. shared by [shijianye1989](https://github.com/shijianye1989)*  
+6. [C++语言简介](https://www.processon.com/view/link/5a55bedfe4b010a6e70e8c8e)
+  - *20180111 shared by [shijianye1989](https://github.com/shijianye1989)*  
