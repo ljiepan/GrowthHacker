@@ -32,4 +32,4 @@
 6. [C++语言简介](https://www.processon.com/view/link/5a55bedfe4b010a6e70e8c8e)
   - *20180111 shared by [shijianye1989](https://github.com/shijianye1989)*  
 7. [Python编码规范](https://www.processon.com/mindmap/5a615adfe4b05a8ff30c80d5)
-  - *20180122 shared by [shijianye1989](https://github.com/shijianye1989)*  
+  - *20180122 shared by [shijianye1989](https://github.com/zqadm)*  
