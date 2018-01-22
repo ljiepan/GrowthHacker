@@ -33,3 +33,5 @@
   - *20180111 shared by [shijianye1989](https://github.com/shijianye1989)*  
 7. [Python编码规范](https://www.processon.com/mindmap/5a615adfe4b05a8ff30c80d5)
   - *20180122 shared by [zqadm](https://github.com/zqadm)*  
+8. [Django前端调研](https://www.processon.com/view/link/5a615136e4b05a8ff30c541e)
+  - *20180122 shared by [ljiepan](https://github.com/ljiepan)*
